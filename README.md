@@ -7,10 +7,6 @@
 
 📅 This JavaFX Calendar App is a simple and user-friendly application for managing and organizing events and tasks. It provides an easy-to-use interface and supports all basic features that a calendar app should have. 
 
-![App](path/to/CalApp.jpg)
-![Popup](path/to/Popup.jpg)
-
-
 ## Features
 
 👉 Users can easily switch between different months and years using the arrows provided on the UI.
