@@ -23,7 +23,7 @@
 
 1. Clone the repository.
 
-```git clone https://github.com/<username>/<repository-name>.git```
+```git clone https://github.com/OmriBraha/Calendar.git```
 
 2. Import the project into Eclipse or any other IDE that supports JavaFX.
 
