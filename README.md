@@ -1,5 +1,10 @@
 # JavaFX Calendar App
 
+<p>
+  <img src="https://img.shields.io/badge/language-Java-orange.svg" alt="Java">
+  <img src="https://img.shields.io/badge/GUI-JavaFX-blue.svg" alt="JavaFX">
+</p>
+
 📅 This JavaFX Calendar App is a simple and user-friendly application for managing and organizing events and tasks. It provides an easy-to-use interface and supports all basic features that a calendar app should have. 
 
 ![App](path/to/CalApp.jpg)
